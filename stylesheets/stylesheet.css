@@ -33,3 +33,11 @@ li:first-child::first-letter {
 a[title *= "homepage"] {
     background-color: yellow;
 }
+
+img {
+    float: left;
+}
+
+.below {
+    clear: left;
+}
